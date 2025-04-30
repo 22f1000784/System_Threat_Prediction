@@ -61,6 +61,23 @@ Each row in the dataset represents a unique machine and contains features such a
 
 ---
 
+---
+
+## 🛠️ Tools & Libraries Used
+
+- **Python** (Primary language)
+- **Jupyter Notebook** for interactive coding
+- **pandas** – Data manipulation and analysis
+- **NumPy** – Numerical operations
+- **scikit-learn** – Preprocessing, modeling, metrics, and feature selection
+- **XGBoost** – Gradient boosting classifier
+- **Matplotlib & Seaborn** – Data visualization
+- **tqdm** – Progress tracking for loops
+- **Kaggle Platform** – Model submission and scoring
+
+---
+
+
 ## 📌 Notes
 
 - This notebook was developed and submitted on Kaggle.
